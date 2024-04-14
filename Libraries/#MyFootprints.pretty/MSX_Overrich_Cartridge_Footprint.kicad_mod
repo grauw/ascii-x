@@ -1,0 +1,105 @@
+(footprint "MSX_Overrich_Cartridge_Footprint"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "bdffd1b5-16d2-4ccc-9402-0befb2d9b1b7")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MSX_Overrich_Cartridge_Footprint"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "2bfd6322-4064-47b6-9a8a-d7ee134ad812")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "e51e7430-6c60-4d9d-b71b-6c9330a46b1e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "beb9cb5e-8277-4694-a047-66c94e83f309")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(fp_circle
+		(center -28.2 -21.2)
+		(end -26.05 -21.2)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "900774e7-cc92-43e8-a1a9-0af363a469bd")
+	)
+	(fp_circle
+		(center 27.9 -16)
+		(end 30.05 -16)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "91b58cf9-21ae-455c-a091-3e75eb200e60")
+	)
+	(fp_poly
+		(pts
+			(xy -44.4 -11) (xy -44.9 -11.5) (xy -44.9 -22) (xy -55.9 -22) (xy -56.4 -22.5) (xy -56.4 -64.7) (xy -55.9 -65.2)
+			(xy 45.9 -65.2) (xy 46.4 -64.7) (xy 46.4 -11.5) (xy 45.9 -11) (xy 32.72 -11) (xy 32.72 -0.5) (xy 32.22 0)
+			(xy -32.22 0) (xy -32.72 -0.5) (xy -32.72 -11)
+		)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "be34d1e6-0291-465a-ac4a-2f054d33886e")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 2.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "ca90f7f7-9a7a-4a59-88ab-c00b67281ef2")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(embedded_fonts no)
+)
