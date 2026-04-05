@@ -7761,7 +7761,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1 µF"
+		(property "Value" "10 µF"
 			(at 137.16 177.8 0)
 			(effects
 				(font
@@ -7788,7 +7788,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1UF 25V X7R 10% 0805"
+		(property "Description" "CAP CER 10UF 16V X5R 10% 0805"
 			(at 140.97 176.53 0)
 			(effects
 				(font
@@ -7806,7 +7806,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B105KAFNNNE"
+		(property "MPN" "CL21A106KOQNNNE"
 			(at 140.97 176.53 0)
 			(effects
 				(font
@@ -9387,7 +9387,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1 µF"
+		(property "Value" "10 µF"
 			(at 160.02 177.8 0)
 			(effects
 				(font
@@ -9414,7 +9414,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "CAP CER 1UF 25V X7R 10% 0805"
+		(property "Description" "CAP CER 10UF 16V X5R 10% 0805"
 			(at 156.21 176.53 0)
 			(effects
 				(font
@@ -9432,7 +9432,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CL21B105KAFNNNE"
+		(property "MPN" "CL21A106KOQNNNE"
 			(at 156.21 176.53 0)
 			(effects
 				(font

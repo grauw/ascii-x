@@ -8056,7 +8056,7 @@
 				)
 			)
 		)
-		(property "Value" "1 µF"
+		(property "Value" "10 µF"
 			(at 8.05 0 90)
 			(layer "F.Fab")
 			(uuid "94543927-6cef-49ec-9521-5d1d465cd717")
@@ -8080,7 +8080,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 1UF 25V X7R 10% 0805"
+		(property "Description" "CAP CER 10UF 16V X5R 10% 0805"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -8093,7 +8093,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL21B105KAFNNNE"
+		(property "MPN" "CL21A106KOQNNNE"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -10917,7 +10917,7 @@
 				)
 			)
 		)
-		(property "Value" "1 µF"
+		(property "Value" "10 µF"
 			(at 8.05 0 90)
 			(layer "F.Fab")
 			(uuid "3cb24723-af09-4a46-a869-f244c8b58257")
@@ -10941,7 +10941,7 @@
 				)
 			)
 		)
-		(property "Description" "CAP CER 1UF 25V X7R 10% 0805"
+		(property "Description" "CAP CER 10UF 16V X5R 10% 0805"
 			(at 0 0 270)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -10954,7 +10954,7 @@
 				)
 			)
 		)
-		(property "MPN" "CL21B105KAFNNNE"
+		(property "MPN" "CL21A106KOQNNNE"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
