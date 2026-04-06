@@ -1527,7 +1527,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://www.infineon.com/dgdl/?fileId=8ac78c8c7d0d8da4017d0ed12bd84d2d"
+			(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/10/49/infineon-s29gl064s-64-mbit8-mbyte3-datasheet-en.pdf"
 				(at 0 0 0)
 				(effects
 					(font
@@ -7350,7 +7350,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.infineon.com/dgdl/?fileId=8ac78c8c7d0d8da4017d0ed12bd84d2d"
+		(property "Datasheet" "https://www.infineon.com/assets/row/public/documents/10/49/infineon-s29gl064s-64-mbit8-mbyte3-datasheet-en.pdf"
 			(at 245.11 87.63 0)
 			(effects
 				(font
