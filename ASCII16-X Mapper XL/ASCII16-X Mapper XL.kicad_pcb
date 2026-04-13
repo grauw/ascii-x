@@ -5100,7 +5100,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC32A"
+		(property "Value" "74LVC7032A"
 			(at 0 3.45 270)
 			(layer "F.Fab")
 			(uuid "75b04312-6bf0-411d-8e7c-c73c30000221")
@@ -5111,7 +5111,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC32A"
+		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC7032A"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5124,7 +5124,7 @@
 				)
 			)
 		)
-		(property "Description" "IC GATE OR 4CH 2-INP 14TSSOP"
+		(property "Description" "IC GATE OR SCHMITT 4CH 2-INP 14TSSOP"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5150,7 +5150,7 @@
 				)
 			)
 		)
-		(property "MPN" "SN74LVC32APWR"
+		(property "MPN" "SN74LVC7032APWR"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5202,7 +5202,7 @@
 				)
 			)
 		)
-		(property "Substitutes" "Texas Instruments SN74LVC32APWT, Nexperia 74LVC32APW,118"
+		(property "Substitutes" "Texas Instruments SN74LVC32APWR, SN74LVC32APWT, Nexperia 74LVC32APW,118"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")

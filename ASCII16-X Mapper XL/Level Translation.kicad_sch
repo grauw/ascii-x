@@ -7602,7 +7602,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC32A"
+		(property "Value" "74LVC7032A"
 			(at 96.52 139.7 0)
 			(effects
 				(font
@@ -7619,7 +7619,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC32A"
+		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC7032A"
 			(at 96.52 146.05 0)
 			(effects
 				(font
@@ -7628,7 +7628,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC GATE OR 4CH 2-INP 14TSSOP"
+		(property "Description" "IC GATE OR SCHMITT 4CH 2-INP 14TSSOP"
 			(at 96.52 146.05 0)
 			(effects
 				(font
@@ -7646,7 +7646,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LVC32APWR"
+		(property "MPN" "SN74LVC7032APWR"
 			(at 96.52 146.05 0)
 			(effects
 				(font
@@ -7682,7 +7682,7 @@
 				(hide yes)
 			)
 		)
-		(property "Substitutes" "Texas Instruments SN74LVC32APWT, Nexperia 74LVC32APW,118"
+		(property "Substitutes" "Texas Instruments SN74LVC32APWR, SN74LVC32APWT, Nexperia 74LVC32APW,118"
 			(at 96.52 146.05 0)
 			(effects
 				(font
@@ -8676,7 +8676,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC32A"
+		(property "Value" "74LVC7032A"
 			(at 48.26 139.7 0)
 			(effects
 				(font
@@ -8693,7 +8693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC32A"
+		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC7032A"
 			(at 48.26 146.05 0)
 			(effects
 				(font
@@ -8702,7 +8702,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC GATE OR 4CH 2-INP 14TSSOP"
+		(property "Description" "IC GATE OR SCHMITT 4CH 2-INP 14TSSOP"
 			(at 48.26 146.05 0)
 			(effects
 				(font
@@ -8720,7 +8720,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LVC32APWR"
+		(property "MPN" "SN74LVC7032APWR"
 			(at 48.26 146.05 0)
 			(effects
 				(font
@@ -8756,7 +8756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Substitutes" "Texas Instruments SN74LVC32APWT, Nexperia 74LVC32APW,118"
+		(property "Substitutes" "Texas Instruments SN74LVC32APWR, SN74LVC32APWT, Nexperia 74LVC32APW,118"
 			(at 48.26 146.05 0)
 			(effects
 				(font
@@ -9578,7 +9578,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC32A"
+		(property "Value" "74LVC7032A"
 			(at 72.39 173.99 90)
 			(effects
 				(font
@@ -9595,7 +9595,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC32A"
+		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC7032A"
 			(at 72.39 181.61 0)
 			(effects
 				(font
@@ -9604,7 +9604,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC GATE OR 4CH 2-INP 14TSSOP"
+		(property "Description" "IC GATE OR SCHMITT 4CH 2-INP 14TSSOP"
 			(at 72.39 181.61 0)
 			(effects
 				(font
@@ -9622,7 +9622,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LVC32APWR"
+		(property "MPN" "SN74LVC7032APWR"
 			(at 72.39 181.61 0)
 			(effects
 				(font
@@ -9658,7 +9658,7 @@
 				(hide yes)
 			)
 		)
-		(property "Substitutes" "Texas Instruments SN74LVC32APWT, Nexperia 74LVC32APW,118"
+		(property "Substitutes" "Texas Instruments SN74LVC32APWR, SN74LVC32APWT, Nexperia 74LVC32APW,118"
 			(at 72.39 181.61 0)
 			(effects
 				(font
@@ -9805,7 +9805,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC32A"
+		(property "Value" "74LVC7032A"
 			(at 96.52 154.94 0)
 			(effects
 				(font
@@ -9822,7 +9822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC32A"
+		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC7032A"
 			(at 96.52 161.29 0)
 			(effects
 				(font
@@ -9831,7 +9831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC GATE OR 4CH 2-INP 14TSSOP"
+		(property "Description" "IC GATE OR SCHMITT 4CH 2-INP 14TSSOP"
 			(at 96.52 161.29 0)
 			(effects
 				(font
@@ -9849,7 +9849,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LVC32APWR"
+		(property "MPN" "SN74LVC7032APWR"
 			(at 96.52 161.29 0)
 			(effects
 				(font
@@ -9885,7 +9885,7 @@
 				(hide yes)
 			)
 		)
-		(property "Substitutes" "Texas Instruments SN74LVC32APWT, Nexperia 74LVC32APW,118"
+		(property "Substitutes" "Texas Instruments SN74LVC32APWR, SN74LVC32APWT, Nexperia 74LVC32APW,118"
 			(at 96.52 161.29 0)
 			(effects
 				(font
@@ -10275,7 +10275,7 @@
 				)
 			)
 		)
-		(property "Value" "74LVC32A"
+		(property "Value" "74LVC7032A"
 			(at 48.26 154.94 0)
 			(effects
 				(font
@@ -10292,7 +10292,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC32A"
+		(property "Datasheet" "http://www.ti.com/lit/gpn/SN74LVC7032A"
 			(at 48.26 161.29 0)
 			(effects
 				(font
@@ -10301,7 +10301,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "IC GATE OR 4CH 2-INP 14TSSOP"
+		(property "Description" "IC GATE OR SCHMITT 4CH 2-INP 14TSSOP"
 			(at 48.26 161.29 0)
 			(effects
 				(font
@@ -10319,7 +10319,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "SN74LVC32APWR"
+		(property "MPN" "SN74LVC7032APWR"
 			(at 48.26 161.29 0)
 			(effects
 				(font
@@ -10355,7 +10355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Substitutes" "Texas Instruments SN74LVC32APWT, Nexperia 74LVC32APW,118"
+		(property "Substitutes" "Texas Instruments SN74LVC32APWR, SN74LVC32APWT, Nexperia 74LVC32APW,118"
 			(at 48.26 161.29 0)
 			(effects
 				(font
