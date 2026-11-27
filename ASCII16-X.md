@@ -113,8 +113,8 @@ user created levels, etc.
 The FlashROM command set supported varies depending on the FlashROM chip in use.
 The Infineon S29GL064S used by the XL 8 MB cartridge has a very large command
 set, however it is recommended to limit your use of flash commands for
-compatibility with a wide range of FlashROM chips. The minimum commands that can
-be assumed to be supported are:
+compatibility with a wide range of FlashROM chips. The minimum command set that
+can be assumed to be supported is:
 
   * Autoselect
   * CFI query
@@ -156,9 +156,9 @@ that the erasing is complete.
 memory, the erase routine can not itself be in the FlashROM and must be placed
 in RAM.
 
-**Note:** The number of erase cycles a FlashROM is guaranteed to support is
-limited but very high (typically 100,000 cycles). So you under normal usage
-conditions you generally don’t need to worry about how often you erase.
+**Note:** The number of erase cycles a FlashROM is guaranteed to support is very
+high (typically 100,000 cycles). So under normal usage conditions you generally
+don’t need to worry about how often you erase.
 
 ### Program byte command
 
@@ -174,7 +174,7 @@ with writing the desired value to its address.
   | Address      | XAAAH | X555H | XAAAH | (address) |
   | Data         |  AAH  |  55H  |  A0H  |  (value)  |
 
-The programming can take up to 1.2 ms to complete, though it is typically takes
+The programming can take up to 1.2 ms to complete, though it typically takes
 around 0.1 ms. It varies by chip and by age. While the programming is in
 progress, any reads from the entire memory give a value different from the value
 being written. Wait for the programming to be complete by polling the address
@@ -199,7 +199,7 @@ Note that at the time of writing openMSX’s FlashROM implementation is incomple
 
   * The timing still needs improvements to better match real hardware. When
     using FlashROM functions, be sure to correctly poll for command completion
-    and test on real hardware.
+    and test on real hardware. Proper timing is implemented in openMSX 21.0.
   * When the contents of the FlashROM are modified the entire ROM is persisted.
     When providing a new ROM version, make sure to first delete the persistent
     data in the openMSX user directory.
